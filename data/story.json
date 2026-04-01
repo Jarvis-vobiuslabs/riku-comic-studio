@@ -1,0 +1,106 @@
+{
+  "title": "RIKU — Crimson Blade Chronicle",
+  "chapters": [
+    { "number": 1, "title": "Awakening", "start_page": 1, "end_page": 40 },
+    { "number": 2, "title": "The Shadow Gate", "start_page": 41, "end_page": 80 }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "scene_description": "Opening splash page. Dawn breaks over a misty Japanese mountain village. Riku stands on a cliff edge, katana drawn, wind whipping her crimson hair.",
+      "layout": "E",
+      "panels": [
+        {
+          "description": "Epic wide shot of Riku silhouetted against a blood-red sunrise on a cliff overlooking a misty mountain village, katana raised, crimson hair flowing in the wind",
+          "dialogue": "",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "caption", "text": "In a world where demons walk among mortals, one girl stands between darkness and dawn.", "x": 50, "y": 1600 }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "scene_description": "Riku walks through the village marketplace. Villagers whisper about demon sightings in the northern forest.",
+      "layout": "C",
+      "panels": [
+        {
+          "description": "Riku walking through a bustling village marketplace, morning light, merchants and villagers around her, she looks determined",
+          "dialogue": "",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "caption", "text": "The village of Akiyama — three days since the last attack.", "x": 30, "y": 30 }
+          ]
+        },
+        {
+          "description": "Close-up of two elderly villagers whispering to each other with worried expressions, market stall in background",
+          "dialogue": "They say the northern forest has gone silent... not even the birds sing anymore.",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "speech", "text": "They say the northern forest has gone silent... not even the birds sing anymore.", "x": 650, "y": 50 }
+          ]
+        },
+        {
+          "description": "Riku pausing mid-step, her golden eyes narrowing, hand instinctively reaching for her katana hilt",
+          "dialogue": "",
+          "sfx": "",
+          "text_overlays": []
+        },
+        {
+          "description": "Over-the-shoulder shot of Riku looking toward dark treeline of the northern forest in the distance, ominous dark clouds gathering",
+          "dialogue": "The demons are getting bolder...",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "speech", "text": "The demons are getting bolder...", "x": 700, "y": 950 }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "scene_description": "Riku enters the forest. The atmosphere shifts — dark, twisted trees, glowing eyes in shadows. She draws her katana.",
+      "layout": "D",
+      "panels": [
+        {
+          "description": "Wide shot of Riku entering a dark twisted forest, gnarled trees forming an ominous canopy, shafts of dim light breaking through",
+          "dialogue": "",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "caption", "text": "The Northern Forest — forbidden ground.", "x": 50, "y": 50 }
+          ]
+        },
+        {
+          "description": "Close-up of Riku's boots stepping on cracked dead leaves, the ground is scorched and blackened",
+          "dialogue": "",
+          "sfx": "KRSSH",
+          "text_overlays": [
+            { "type": "sfx", "text": "KRSSH", "x": 100, "y": 350 }
+          ]
+        },
+        {
+          "description": "Extreme close-up of glowing red eyes watching from the shadows between twisted tree trunks",
+          "dialogue": "",
+          "sfx": "",
+          "text_overlays": []
+        },
+        {
+          "description": "Medium shot of Riku sensing danger, her golden eyes wide, hand gripping katana hilt tightly",
+          "dialogue": "Show yourself.",
+          "sfx": "",
+          "text_overlays": [
+            { "type": "speech", "text": "Show yourself.", "x": 200, "y": 680 }
+          ]
+        },
+        {
+          "description": "Dynamic action shot of Riku drawing her katana in a flash of silver light, battle stance, crimson hair swept back by the force",
+          "dialogue": "",
+          "sfx": "SHING!",
+          "text_overlays": [
+            { "type": "sfx", "text": "SHING!", "x": 400, "y": 1400 }
+          ]
+        }
+      ]
+    }
+  ]
+}
