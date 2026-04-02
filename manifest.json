@@ -1,6 +1,6 @@
 {
-  "generated": 1775167231,
-  "total": 66,
+  "generated": 1775167273,
+  "total": 71,
   "items": [
     {
       "key": "page_01",
@@ -606,6 +606,61 @@
         1800
       ],
       "added": 1775167230
+    },
+    {
+      "key": "page_71",
+      "label": "Page 71 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_71.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167272
+    },
+    {
+      "key": "page_72",
+      "label": "Page 72 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_72.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167272
+    },
+    {
+      "key": "page_73",
+      "label": "Page 73 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_73.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167272
+    },
+    {
+      "key": "page_74",
+      "label": "Page 74 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_74.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167272
+    },
+    {
+      "key": "page_75",
+      "label": "Page 75 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_75.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167272
     },
     {
       "key": "p1_ref_test",
