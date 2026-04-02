@@ -1,6 +1,6 @@
 {
-  "generated": 1775167870,
-  "total": 86,
+  "generated": 1775168214,
+  "total": 91,
   "items": [
     {
       "key": "page_01",
@@ -561,7 +561,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_52",
@@ -572,7 +572,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_53",
@@ -583,7 +583,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_54",
@@ -594,7 +594,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_55",
@@ -605,7 +605,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_56",
@@ -616,7 +616,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_57",
@@ -627,7 +627,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_58",
@@ -638,7 +638,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_59",
@@ -649,7 +649,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_60",
@@ -660,7 +660,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_61",
@@ -671,7 +671,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_62",
@@ -682,7 +682,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_63",
@@ -693,7 +693,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_64",
@@ -704,7 +704,7 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
     },
     {
       "key": "page_65",
@@ -715,7 +715,62 @@
         1200,
         1800
       ],
-      "added": 1775167870
+      "added": 1775168214
+    },
+    {
+      "key": "page_66",
+      "label": "Page 66 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_66.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775168214
+    },
+    {
+      "key": "page_67",
+      "label": "Page 67 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_67.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775168214
+    },
+    {
+      "key": "page_68",
+      "label": "Page 68 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_68.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775168214
+    },
+    {
+      "key": "page_69",
+      "label": "Page 69 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_69.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775168214
+    },
+    {
+      "key": "page_70",
+      "label": "Page 70 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_70.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775168214
     },
     {
       "key": "page_71",
