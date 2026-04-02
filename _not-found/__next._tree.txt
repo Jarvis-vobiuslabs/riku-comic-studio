@@ -1,2 +1,2 @@
-:HL["/riku-comic-studio/_next/static/chunks/07hmuufq4gj28.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"XsAILRKEcO9TcKuuQ0X9T"}
+:HL["/riku-comic-studio/_next/static/chunks/03mxk.zukxd.s.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"gHtjbUy25Tq3W6BlVg7hp"}
