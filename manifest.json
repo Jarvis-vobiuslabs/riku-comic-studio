@@ -1,0 +1,171 @@
+{
+  "generated": 1775098241,
+  "total": 15,
+  "items": [
+    {
+      "key": "page_01",
+      "label": "Page 1 \u2014 The city that never sleeps",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_01.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775098034
+    },
+    {
+      "key": "page_02",
+      "label": "Page 2 \u2014 The girl who stitches the world",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_02.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775098034
+    },
+    {
+      "key": "page_03",
+      "label": "Page 3 \u2014 The Rift opens",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_03.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775098034
+    },
+    {
+      "key": "page_04",
+      "label": "Page 4 \u2014 Six tonight. Slow Tuesday.",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_04.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "p1_ref_test",
+      "label": "Page 1 \u2014 Reference image test",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p1_ref_test.jpg",
+      "size": [
+        1200,
+        896
+      ],
+      "added": 1775098034
+    },
+    {
+      "key": "p1_splash",
+      "label": "Page 1 \u2014 Tokyo 2AM (splash)",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p1_splash.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "p2_panel1",
+      "label": "Page 2 \u2014 Phone 1:59 AM",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p2_panel1.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "p2_panel2",
+      "label": "Page 2 \u2014 Riku on ledge",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p2_panel2.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "p2_panel3",
+      "label": "Page 2 \u2014 Riku profile smirk",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p2_panel3.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "p3_splash",
+      "label": "Page 3 \u2014 Rift cracks open (splash)",
+      "type": "panel",
+      "src": "/riku-comic-studio/panels-hq/p3_splash.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "gemini-2.5-flash-image",
+      "label": "Gen test: gemini-2.5-flash-image",
+      "type": "test",
+      "src": "/riku-comic-studio/test-gen/gemini-2.5-flash-image.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "gemini-3-pro-image-preview",
+      "label": "Gen test: gemini-3-pro-image-preview",
+      "type": "test",
+      "src": "/riku-comic-studio/test-gen/gemini-3-pro-image-preview.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "gemini-3.1-flash-image-preview",
+      "label": "Gen test: gemini-3.1-flash-image-preview \u2705 CHOSEN",
+      "type": "test",
+      "src": "/riku-comic-studio/test-gen/gemini-3.1-flash-image-preview.jpg",
+      "size": [
+        1408,
+        768
+      ],
+      "added": 1775092293
+    },
+    {
+      "key": "riku_v1",
+      "label": "Character test v1 (silver hair)",
+      "type": "character",
+      "src": "https://d3u0tzju9qaucj.cloudfront.net/42d0b602-769d-49ac-b102-5eb6459a07e1/2a312b21-d022-4456-af64-e25cf7ecfda2.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "added": 1743000000
+    },
+    {
+      "key": "riku_v2",
+      "label": "Character test v2 \u2014 crimson hair \u2705 APPROVED",
+      "type": "character",
+      "src": "https://d3u0tzju9qaucj.cloudfront.net/42d0b602-769d-49ac-b102-5eb6459a07e1/e0423126-31df-4e38-8d1a-cdfb189f8f56.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "added": 1743000001
+    }
+  ]
+}
