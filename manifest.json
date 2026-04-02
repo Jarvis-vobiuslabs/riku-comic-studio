@@ -1,6 +1,6 @@
 {
-  "generated": 1775098241,
-  "total": 15,
+  "generated": 1775100250,
+  "total": 16,
   "items": [
     {
       "key": "page_01",
@@ -11,7 +11,7 @@
         1200,
         1800
       ],
-      "added": 1775098034
+      "added": 1775100250
     },
     {
       "key": "page_02",
@@ -22,7 +22,7 @@
         1200,
         1800
       ],
-      "added": 1775098034
+      "added": 1775100250
     },
     {
       "key": "page_03",
@@ -33,7 +33,7 @@
         1200,
         1800
       ],
-      "added": 1775098034
+      "added": 1775100250
     },
     {
       "key": "page_04",
@@ -44,7 +44,18 @@
         1200,
         1800
       ],
-      "added": 1775092293
+      "added": 1775100250
+    },
+    {
+      "key": "page_05",
+      "label": "Page 5 \u2014 One got away",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_05.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775100250
     },
     {
       "key": "p1_ref_test",
