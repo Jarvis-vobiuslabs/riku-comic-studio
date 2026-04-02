@@ -1,6 +1,6 @@
 {
-  "generated": 1775158512,
-  "total": 46,
+  "generated": 1775158937,
+  "total": 51,
   "items": [
     {
       "key": "page_01",
@@ -231,7 +231,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_22",
@@ -242,7 +242,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_23",
@@ -253,7 +253,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_24",
@@ -264,7 +264,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_25",
@@ -275,7 +275,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_26",
@@ -286,7 +286,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_27",
@@ -297,7 +297,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_28",
@@ -308,7 +308,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_29",
@@ -319,7 +319,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_30",
@@ -330,7 +330,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_31",
@@ -341,7 +341,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_32",
@@ -352,7 +352,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_33",
@@ -363,7 +363,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_34",
@@ -374,7 +374,7 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
     },
     {
       "key": "page_35",
@@ -385,7 +385,62 @@
         1200,
         1800
       ],
-      "added": 1775158512
+      "added": 1775158937
+    },
+    {
+      "key": "page_36",
+      "label": "Page 36 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_36.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158937
+    },
+    {
+      "key": "page_37",
+      "label": "Page 37 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_37.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158937
+    },
+    {
+      "key": "page_38",
+      "label": "Page 38 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_38.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158937
+    },
+    {
+      "key": "page_39",
+      "label": "Page 39 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_39.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158937
+    },
+    {
+      "key": "page_40",
+      "label": "Page 40 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_40.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158937
     },
     {
       "key": "p1_ref_test",
