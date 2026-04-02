@@ -1,0 +1,27 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>RIKU — Book 1</title>
+<style>*{margin:0;padding:0;box-sizing:border-box}html,body{background:#080810;color:#fff;font-family:sans-serif}
+#reader{display:flex;flex-direction:column;align-items:center;min-height:100vh;padding-bottom:80px}
+#header{width:100%;max-width:600px;padding:16px 20px;display:flex;align-items:center;justify-content:space-between}
+h1{font-size:18px;font-weight:900;color:#e63946;letter-spacing:2px}#sub{font-size:11px;color:rgba(255,255,255,.4);margin-top:2px}
+#pd{width:100%;max-width:600px;padding:0 8px}#pi{width:100%;border-radius:6px;display:block}
+#pt{font-size:11px;color:rgba(255,255,255,.3);text-align:center;margin:6px 0 10px}
+#ctrl{position:fixed;bottom:0;left:0;right:0;background:rgba(8,8,16,.95);backdrop-filter:blur(12px);padding:12px 20px 20px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(255,255,255,.08)}
+.btn{background:rgba(230,57,70,.15);border:1px solid rgba(230,57,70,.3);color:#e63946;padding:10px 24px;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer}.btn:disabled{opacity:.3}
+#pc{font-size:14px;color:rgba(255,255,255,.6);font-weight:600}</style>
+</head><body>
+<div id="reader">
+  <div id="header"><div><h1>RIKU</h1><div id="sub">Book 1 — Red Mist Rising</div></div>
+  <a href="/riku-comic-studio/" style="color:rgba(255,255,255,.3);font-size:12px;text-decoration:none">App</a></div>
+  <div id="pd"><div id="pt">Page 1 — The city that never sleeps</div><img id="pi" src="/riku-comic-studio/pages/page_01.jpg"></div>
+</div>
+<div id="ctrl">
+  <button class="btn" id="prev" onclick="go(-1)" disabled>← Prev</button>
+  <span id="pc">1 / 4</span>
+  <button class="btn" id="next" onclick="go(1)">Next →</button>
+</div>
+<script>
+var cur=1,tot=4,T={1:"The city that never sleeps",2:"The girl who stitches the world",3:"The Rift opens",4:"Six tonight. Slow Tuesday."};
+function go(d){cur=Math.max(1,Math.min(tot,cur+d));document.getElementById('pi').src='/riku-comic-studio/pages/page_'+String(cur).padStart(2,'0')+'.jpg';document.getElementById('pc').textContent=cur+' / '+tot;document.getElementById('pt').textContent='Page '+cur+' — '+(T[cur]||'');document.getElementById('prev').disabled=cur===1;document.getElementById('next').disabled=cur===tot;window.scrollTo({top:0,behavior:'smooth'})}
+</script></body></html>
