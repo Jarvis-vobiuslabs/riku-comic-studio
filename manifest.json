@@ -1,6 +1,6 @@
 {
-  "generated": 1775167273,
-  "total": 71,
+  "generated": 1775167503,
+  "total": 76,
   "items": [
     {
       "key": "page_01",
@@ -616,7 +616,7 @@
         1200,
         1800
       ],
-      "added": 1775167272
+      "added": 1775167503
     },
     {
       "key": "page_72",
@@ -627,7 +627,7 @@
         1200,
         1800
       ],
-      "added": 1775167272
+      "added": 1775167503
     },
     {
       "key": "page_73",
@@ -638,7 +638,7 @@
         1200,
         1800
       ],
-      "added": 1775167272
+      "added": 1775167503
     },
     {
       "key": "page_74",
@@ -649,7 +649,7 @@
         1200,
         1800
       ],
-      "added": 1775167272
+      "added": 1775167503
     },
     {
       "key": "page_75",
@@ -660,7 +660,62 @@
         1200,
         1800
       ],
-      "added": 1775167272
+      "added": 1775167503
+    },
+    {
+      "key": "page_76",
+      "label": "Page 76 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_76.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167503
+    },
+    {
+      "key": "page_77",
+      "label": "Page 77 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_77.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167503
+    },
+    {
+      "key": "page_78",
+      "label": "Page 78 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_78.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167503
+    },
+    {
+      "key": "page_79",
+      "label": "Page 79 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_79.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167503
+    },
+    {
+      "key": "page_80",
+      "label": "Page 80 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_80.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775167503
     },
     {
       "key": "p1_ref_test",
