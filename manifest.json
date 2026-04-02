@@ -1,6 +1,6 @@
 {
-  "generated": 1775158045,
-  "total": 41,
+  "generated": 1775158512,
+  "total": 46,
   "items": [
     {
       "key": "page_01",
@@ -231,7 +231,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_22",
@@ -242,7 +242,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_23",
@@ -253,7 +253,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_24",
@@ -264,7 +264,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_25",
@@ -275,7 +275,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_26",
@@ -286,7 +286,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_27",
@@ -297,7 +297,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_28",
@@ -308,7 +308,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_29",
@@ -319,7 +319,7 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
     },
     {
       "key": "page_30",
@@ -330,7 +330,62 @@
         1200,
         1800
       ],
-      "added": 1775158045
+      "added": 1775158512
+    },
+    {
+      "key": "page_31",
+      "label": "Page 31 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_31.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158512
+    },
+    {
+      "key": "page_32",
+      "label": "Page 32 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_32.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158512
+    },
+    {
+      "key": "page_33",
+      "label": "Page 33 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_33.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158512
+    },
+    {
+      "key": "page_34",
+      "label": "Page 34 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_34.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158512
+    },
+    {
+      "key": "page_35",
+      "label": "Page 35 \u2014 Chapter 1",
+      "type": "page",
+      "src": "/riku-comic-studio/pages/page_35.jpg",
+      "size": [
+        1200,
+        1800
+      ],
+      "added": 1775158512
     },
     {
       "key": "p1_ref_test",
