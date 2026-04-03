@@ -1,3 +1,3 @@
-:HL["/riku-comic-studio/_next/static/chunks/0g8lf7f6rqnoe.css","style"]
+:HL["/riku-comic-studio/_next/static/chunks/144c.wdr8g5on.css","style"]
 :HL["/riku-comic-studio/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prompts","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lKNGrGJRjRIpXA90uhRbO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prompts","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Xf3Ehvjyyqelap9Jq7dcQ"}
